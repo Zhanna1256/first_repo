@@ -17,8 +17,8 @@
 
 # 4
 # name_1 = input("Введите Имя и Фамилию ")
-# str = ("Привет,") 
-# print(str + name_1) 
+# greetings = ("Привет,") 
+# print(greetings + name_1) 
 
 
 # 5
@@ -34,9 +34,9 @@
 
 # 7
 # numb_1 = int(input("Введите число "))
-# sum = int(numb_1 + 42)
-# print(sum)
-# difference = int(sum - numb_1)
+# result = int(numb_1 + 42)
+# print(result)
+# difference = int(result - numb_1)
 # print(difference)
 
 # 8
