@@ -11,7 +11,7 @@ elif math == "/":
    if num_2 != 0:
     print(num_1 / num_2)
    else:
-    print(input("На ноль делить нельзя "))
+    print("На ноль делить нельзя ")
 
 
 
