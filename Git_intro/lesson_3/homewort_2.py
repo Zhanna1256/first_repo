@@ -3,7 +3,7 @@
 # summa = 0
 # for i in range(1, 101):
 #     summa += i
-#     print(f"Эх опять прибавляют {summa} " )
+#     print(f"Эх опять прибавляют {i} " )
 # print(f"Ладно, вот тебе сумма : {summa}")
 
 #2
